@@ -1,0 +1,103 @@
+
+@extends('layouts.main')
+@section('title', '| Home')
+
+@section('content')
+
+
+    <section id="showcase">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="showcase-left">
+              <img src="img/image1.jpg">
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="showcase-right">
+              <h1>Hands-free help from the Google Assistant</h1>
+              <p>Google Home voice-activated speaker.consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+            </div>
+            <br>
+            <a class="btn btn-default btn-lg showcase-btn">Read More</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="testimonial">
+      <div class="container">
+        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud"</p>
+        <p class="customer">- John Doe</p>
+      </div>
+    </section>
+
+    <section id="info1">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="info-left">
+              <img src="img/image2.png">
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="info-right">
+              <h2>Get To Know Google Home</h2>
+              <p>Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+              <br>
+              <a class="btn btn-default btn-lg">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <hr>
+    <section id="info2">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="info-left">
+              <h2>Info Block One</h2>
+              <p>Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="info-right">
+              <h2>Info Block Two</h2>
+              <p>Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 col-sm-5">
+            <form>
+              <div class="form-group">
+                <label>Name: </label>
+                <input class="form-control" type="text" name="" value="" placeholder="Enter Name">
+              </div>
+              <div class="form-group">
+                <label>Email: </label>
+                <input class="form-control" type="text" name="" value="" placeholder="Enter Email">
+              </div>
+              <div class="form-group">
+                <label>Message: </label>
+                <textarea class="form-control" name="" value="" placeholder="Enter Message"></textarea>
+              </div>
+              <button class="btn btn-default">Submit</button>
+            </form>
+          </div>
+          <div class="col-md-7 col-sm-7">
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+
+    @endsection
