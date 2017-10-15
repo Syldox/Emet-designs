@@ -17,8 +17,11 @@
           </div>
           <div class="col-md-6 col-sm-6">
             <div class="showcase-right">
-              <h1>Building a Great-Looking, High Performance System Has Never Been Easier</h1>
-              <p>The Graphite Series 600T makes it easy to build a world-class gaming system. With excellent cooling from the dual 200mm fans, eight PCI-E expansion slots to accommodate multiple graphics cards, and plenty of room for large, power-hungry components, the Graphite Series 600T can handle just about anything you can throw at it.</p>
+              <h1>Vous cherchez un développeur web ?</h1>
+              <h2>Ça tombe bien! Pour mieux vous comprendre et mieux vous servir...</h2>
+                <p>Ensemble, nous prendrons donc le temps nécessaire d'analyse de vos besoins. Parce que votre entreprise est unique, votre site internet doit l'être également.
+                  En me confiant la création de votre site internet, vous aurez donc l'assurance d'un véritable support de communication qui vous aidera à booster la réputation de votre entreprise..
+                </p>
             </div>
             <br>
             <a class="btn btn-default btn-lg showcase-btn">Read More</a>
@@ -29,8 +32,11 @@
 
     <section id="testimonial">
       <div class="container">
-        <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud"</p>
-        <p class="customer">- John Doe</p>
+      <h1><b>Votre Site Internet Sur-Mesure</b></h1>
+        <p>Un site internet, c’est un formidable outil de communication. A condition qu'il témoigne du professionnalisme de votre entreprise. Voilà pourquoi le développement de votre site web nécessite un travail en amont, pour bien cerner l'univers de votre structure et l’image que vous souhaitez défendre.
+
+</p>
+        <p class="customer">- Emet-Designs</p>
       </div>
     </section>
 
@@ -61,8 +67,16 @@
           <div class="col-md-6 col-sm-6">
             <div class="info-left">
             <img src="img/isma.jpg" class="isma">
-              <h2>Welcome</h2>
-              <p>My name is Ismaila Sylla, I'm a software engineer, focused on web development and Application industry</p>
+              <h2>Bienvenu!</h2>
+              <p>
+                  Je suis analyste-programmeur et diplômé d'une licence en programation Appliqué suivi d'une licence professionnelle informatique.
+                  Je travaille actuellement en tant que développeur freelance sous mon entreprise nomé (Emet-Designs), situé à Niarela.
+                  Je suis également le pilote du processus 'Systèmes informatiques'.
+                  Ce portfolio a pour but de présenter les différents projets sur lesquels j'ai eu travaillé ces dernières années.
+                  Vous pouvez également visualiser mon CV et le télécharger.
+                  Si vous avez une question, ou si vous avez simplement besoin d'un renseignement, vous pouvez me contacter en cliquant ici: Contact.
+
+              </p>
             </div>
           </div>
           <div class="col-md-6 col-sm-6">

@@ -23,9 +23,9 @@
             </div>
             <div class="col-lg-4  col-md-4 col-sm-4">
                 <div class="footer_dv showcase-btn">
-                    <h4 style="margin-left: 65px;">Localiser Une Boutique</h4>
+                    <h4 style="margin-left: 65px;">Localiser / Emet-Designs</h4>
                     <ul>
-                        <a href="/about"><img src="img/emet-marker.png" alt="hotline" height="100px" style="margin-left: 140px"></a>
+                        <a href="/map"><img src="img/emet-marker.png" alt="hotline" height="100px" style="margin-left: 140px"></a>
                         <p class="footer_text">Pour Nous Localiser Acceder au Map ........</p>
 
                     </ul>
