@@ -10,14 +10,17 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});
+
 
 Route::get('/', function(){
     return view('home');
 });
 
-Route::get('/contact', function(){
-    return view('pages.contact');
-});
-
+// Route::get('/contact', function(){
+//     return view('pages.contact');
+// });
 
 
