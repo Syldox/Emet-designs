@@ -45,8 +45,8 @@
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div class="info-left" style="margin-left: -40px;;">
-              <img src="img/msi.png">
-              <!-- <img src="img/isma.jpg" class="isma"> -->
+              <!-- <img src="img/msi.png"> -->
+              <img src="img/responsive.jpg" class="design">
             </div>
           </div>
           <div class="col-md-6 col-sm-6">
@@ -66,7 +66,7 @@
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div class="info-left">
-            <img src="img/isma.jpg" class="isma">
+            <img src="img/dev.png" class="isma">
               <h2>Bienvenu!</h2>
               <p>
                   Je suis analyste-programmeur et diplômé d'une licence en programation Appliqué suivi d'une licence professionnelle informatique.
@@ -83,7 +83,7 @@
             <div class="info-right">
               <h2>Info Block Two</h2>
               <p>Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-              <img src="img/ibrahim.jpg" class="isma" style="margin-left: 100px;">
+              <img src="img/responsive2.png" class="design" style="margin-left: 30px;">
             </div>
           </div>
         </div>

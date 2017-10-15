@@ -89,7 +89,8 @@ body{
 
 
   .isma { 
-    width: 250px;
+    width: 360px;
+    margin-top: -65px;
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 300px;
@@ -140,3 +141,12 @@ body{
 
 
 }
+
+.design{
+  width: 600px;
+  padding: 10px;
+
+}
+
+
+

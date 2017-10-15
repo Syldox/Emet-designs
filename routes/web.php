@@ -24,9 +24,13 @@ Route::get('/map', function(){
 });
 
 
+Route::get('/portfolio', function(){
+    return view('pages.portfolio');
+});
 
-// Route::get('/contact', function(){
-//     return view('pages.contact');
-// });
+
+Route::get('/contact', function(){
+    return view('pages.contact');
+});
 // Route::get('blog/{slug}', ['as'=> 'blog.single','uses' =>'BlogController@getSingle'])->where('slug', '[\w\d\-\_]+');
 
