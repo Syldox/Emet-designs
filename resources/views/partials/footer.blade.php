@@ -23,9 +23,9 @@
             </div>
             <div class="col-lg-4  col-md-4 col-sm-4">
                 <div class="footer_dv showcase-btn">
-                    <h4 style="margin-left: 50px;">Localiser Une Boutique</h4>
+                    <h4 style="margin-left: 65px;">Localiser Une Boutique</h4>
                     <ul>
-                        <a href="/about"><img src="img/Orange_marker.png" alt="hotline" height="100px" style="margin-left: 140px"></a>
+                        <a href="/about"><img src="img/emet-marker.png" alt="hotline" height="100px" style="margin-left: 140px"></a>
                         <p class="footer_text">Pour Nous Localiser Acceder au Map ........</p>
 
                     </ul>
@@ -35,8 +35,8 @@
 
             <div class="col-lg-4  col-md-4 col-sm-4">
                 <div class="footer_dv info-right">
-                    <h4>Contactez Nous</h4>
-                    <a href="/contact"><img src="img/Corp-Help.png" alt="hotline" height="100px" style="margin-left: 40px"></a>
+                    <h4 style="margin-left: 190px;">Contactez Nous</h4>
+                    <a href="/contact"><img src="img/corp-help.png" alt="hotline" height="100px" style="margin-left: 235px;"></a>
                     <p class="footer_text">Aide Et Support Disponible  24/24 Hotline ........</p>
                     {{--<p>Orange Mali Aci 2000 ........</p>--}}
                     {{--<p>Bamako, Mali P: +223 44 99 99 03</p>--}}
