@@ -9,9 +9,9 @@
     <script src="js/scrollreveal.min.js"></script>
     {{--<script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>--}}
     @yield('stylesheets')
-        <link rel="shortcut icon"  href="{{ asset('images/orange-ico.jpg') }}">
+        <link rel="shortcut icon"  href="{{ asset('../img/emet.png') }}">
     <title>
-        Blog @yield('title')
+        Emet @yield('title')
 
     </title>
   </head>

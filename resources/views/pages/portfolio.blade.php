@@ -11,9 +11,9 @@
     <script src="js/scrollreveal.min.js"></script>
     {{--<script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>--}}
     @yield('stylesheets')
-        <link rel="shortcut icon"  href="{{ asset('images/orange-ico.jpg') }}">
+    <link rel="shortcut icon"  href="{{ asset('../img/emet.png') }}">
     <title>
-        Blog @yield('title')
+        Emet @yield('title')
 
     </title>
   </head>
@@ -79,6 +79,51 @@
 </div>
 </section>
 
+<!-- <section class="footer" style="margin-top: 100px"> -->
+<section class="footer info-right">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4  col-md-4 col-sm-4">
+                <div class="container">
+                <div class="row">
+                <h2>Mes Compétences<a href="http://gridgum.com/author/agez" target="_blank">  </a></h2>
+                     <!-- Skill Bars -->
+                        <div class="progress skill-bar ">
+                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                <span class="skill">HTML <i class="val">100%</i></span>
+                            </div>
+                        </div>
+                            
+                        <div class="progress skill-bar">
+                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" >
+                                <span class="skill">CSS<i class="val">90%</i></span>
+                            </div>
+                        </div>
+                        
+                        <div class="progress skill-bar">
+                            <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                                <span class="skill">JavaScript<i class="val">75%</i></span>
+                            </div>
+                        </div>  
+                        
+                        <div class="progress skill-bar">
+                            <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+                                <span class="skill">Photoshop<i class="val">55%</i></span>
+                            </div>
+                        </div>  
+                        
+                </div>
+            </div>
+            </div>
+
+        </div>
+    </div>
+
+
+</section>
+
+
+
 <section id="contact" class="info-left">
 <div class="container">
   <div class="row">
@@ -115,7 +160,7 @@
             </div>
         </div>
         <div class="col-md-12">
-            <button type="submit" class="btn btn-warning pull-right" id="btnContactUs" style="background-color: #03080f">
+            <button type="submit" class="btn btn-warning pull-right" id="btnContactUs" style="background-color: #03080f; border-color: #d1d1d1;">
                 Send Message</button>
         </div>
     </div>
@@ -137,6 +182,16 @@
 </section>
 
 
-@include('partials.footer')
+<footer class="showcase-btn">
+      <p class="text-center">Emet-Designs Copyright &copy; 2017</p>
+</footer>
+
+
+<script src="../../../js/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="../../../js/bootstrap.min.js"></script>
+<script src="../../../js/script.js"></script>
+<!-- @yield('scripts') -->
+
 
 
