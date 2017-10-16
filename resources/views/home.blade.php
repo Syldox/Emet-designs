@@ -24,7 +24,7 @@
                 </p>
             </div>
             <br>
-            <a class="btn btn-default btn-lg showcase-btn">Lire la suite</a>
+            <a class="btn btn-default btn-lg showcase-btn">Prendre Rendez-Vous</a>
           </div>
         </div>
       </div>
@@ -60,7 +60,7 @@
             Nous concentrons les besoins de nos clients pour fournir une satisfaction à 100%. Nos services s'appuient sur l'expertise approfondie du secteur dans l'industrie,
             sur l'expertise technique des principales technologies Internet et sur un modèle de livraison de solutions global rentable.</p>
               <br>
-              <a class="btn btn-default btn-lg">Lire la suite</a>
+              <a href="/portfolio" class="btn btn-default btn-lg">Savoir Plus</a>
             </div>
           </div>
         </div>

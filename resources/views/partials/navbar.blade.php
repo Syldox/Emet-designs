@@ -9,6 +9,7 @@
           </button>
           
           <a class="navbar-brand" href="/"><img id="logo" class="box-shadow" src="img/logo/emet-designs.jpg" alt=""></a>
+          <!-- <a class="navbar-brand" href="/"><img id="logo" class="box-shadow" src="img/logo/logo.png" alt="" style="background: #d7d7d7;"></a> -->
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
