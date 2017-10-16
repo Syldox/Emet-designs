@@ -16,7 +16,7 @@
             <!-- <li><a href="#showcase">Website</a></li> -->
             <!-- <li><a href="#showcase">Mes réalisations</a></li> -->
             <li><a href="/portfolio">Portfolio</a></li>
-            <li><a href="#info1">About</a></li>
+            <li><a href="#info1">Nos-Services</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->

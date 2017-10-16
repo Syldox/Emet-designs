@@ -1,5 +1,48 @@
-@extends('layouts.main')
-@section('title', '| Contact')
+@section('title', '| Portfolio')
+
+<head>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../css/contact/contact.css">
+    <link rel="stylesheet" href="../../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../css/style.css">
+    <script src="js/scrollreveal.min.js"></script>
+    {{--<script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>--}}
+    @yield('stylesheets')
+        <link rel="shortcut icon"  href="{{ asset('images/orange-ico.jpg') }}">
+    <title>
+        Blog @yield('title')
+
+    </title>
+  </head>
+  <body id="page-top">
+  <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          
+          <a class="navbar-brand" href="/"><img id="logo" class="box-shadow" src="img/logo/emet-designs.jpg" alt=""></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <!-- <li><a href="#showcase">Website</a></li> -->
+            <!-- <li><a href="#showcase">Mes réalisations</a></li> -->
+            <li><a href="/portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+  </body>
+
 <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:100px" data-scrollreveal="enter top and move 100px, wait 0.3s" data-scrollreveal-initialized="true" data-scrollreveal-complete="true">
     <h1>Qui Je Suis ?</h1>
 </div>
@@ -14,7 +57,7 @@
     <div class="col-md-6 col-sm-6">
       <div class="info-left">
       <img src="img/isma.jpg" class="isma">
-        <h2>Bienvenu!</h2>
+        <h2>A propo de Moi!</h2>
         <p class="well text-muted">
             Je suis analyste-programmeur et diplômé d'une licence en programation Appliqué suivi d'une licence professionnelle informatique.
             Je travaille actuellement en tant que développeur freelance sous mon entreprise nomé (Emet-Designs), situé à Niarela.
@@ -27,8 +70,8 @@
     </div>
     <div class="col-md-6 col-sm-6">
       <div class="info-right">
-        <h2>Info Block Two</h2>
-        <p class="well text-muted">Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+        <h2>Ce Quoi Emet?</h2>
+        <p class="well text-muted">Emet-Designs Pvt. Ltd est une société de développement web et de développement de logiciels à service complet certifiée , basée à Bamako/Niaréla, au Mali.</p>
         <img src="img/responsive2.png" class="design" style="margin-left: 30px;">
       </div>
     </div>
@@ -85,5 +128,15 @@
 </div>
 </section>
 
+
+
+<section>
+
+
+
+</section>
+
+
+@include('partials.footer')
 
 

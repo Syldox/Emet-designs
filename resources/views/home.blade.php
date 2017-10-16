@@ -24,7 +24,7 @@
                 </p>
             </div>
             <br>
-            <a class="btn btn-default btn-lg showcase-btn">Read More</a>
+            <a class="btn btn-default btn-lg showcase-btn">Lire la suite</a>
           </div>
         </div>
       </div>
@@ -51,10 +51,16 @@
           </div>
           <div class="col-md-6 col-sm-6">
             <div class="info-right">
-            <h2>MSI-ATX-2600-LGA-1150-Z97-GAMING-5 </h2>
-            <p>One of MSI’s main focus points of the last twelve months has been style. This typically means fashioned heatsinks, almost-invisible traces and if possible a reduction of on-the-board components (trying to balance price as well). MSI wants its motherboards to be shown off, rather than hidden inside a case, such that other users can show it off to their friends and perhaps entice them into a similar build. The Gaming 5 aims to the more cost conscious Haswell build while still maintaining a full ATX size in the red and black livery featuring the MSI Gaming logo.</p>
+            <h2>Emet-Designs Société de développement Web</h2>
+            <p class="well text-muted">
+            Emet-Designs (Mali) Pvt. Ltd. est une société de développement web basée au Mali, Bamako.
+            Nous acceptons les clients partout dans le monde qui sont prêts à externaliser les besoins de développement Web tels que le développement d'applications logicielles,
+            conception et développement d'applications mobiles, optimisation de moteur de recherche, conception Web sensible et hébergement Web.
+            Notre portefeuille riche justifie le fait que nous fonctionnons comme une entreprise de développement web offshore de classe mondiale.
+            Nous concentrons les besoins de nos clients pour fournir une satisfaction à 100%. Nos services s'appuient sur l'expertise approfondie du secteur dans l'industrie,
+            sur l'expertise technique des principales technologies Internet et sur un modèle de livraison de solutions global rentable.</p>
               <br>
-              <a class="btn btn-default btn-lg">Read More</a>
+              <a class="btn btn-default btn-lg">Lire la suite</a>
             </div>
           </div>
         </div>
@@ -66,7 +72,7 @@
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div class="info-left">
-            <img src="img/dev.png" class="isma">
+            <img src="img/dev.png" class="dev">
               <h2>Bienvenu!</h2>
               <p>
                   Je suis analyste-programmeur et diplômé d'une licence en programation Appliqué suivi d'une licence professionnelle informatique.
@@ -81,8 +87,13 @@
           </div>
           <div class="col-md-6 col-sm-6">
             <div class="info-right">
-              <h2>Info Block Two</h2>
-              <p>Adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+              <h2>Vous Voulez un Site-Web ?</h2>
+              <p>
+              Vous tombe bien ! Je suis passionné par le web.
+              Nous offrons une large gamme de produits et Solutions.
+              Si mon profil vous intéresse n'hésitez pas à Nous contacter ou regardez mes réalisations →
+              
+              </p>
               <img src="img/responsive2.png" class="design" style="margin-left: 30px;">
             </div>
           </div>
@@ -126,7 +137,7 @@
                   </div>
               </div>
               <div class="col-md-12">
-                  <button type="submit" class="btn btn-warning pull-right" id="btnContactUs" style="background-color: #03080f">
+                  <button type="submit" class="btn btn-warning pull-right" id="btnContactUs" style="background-color: #03080f; border-color: #d1d1d1;">
                       Send Message</button>
               </div>
           </div>

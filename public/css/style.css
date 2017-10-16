@@ -149,4 +149,21 @@ body{
 }
 
 
+.dev{
+  
+    width: 360px;
+    /* margin-top: -65px; */
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 300px;
+    padding: 10px;
+
+}
+
+
+/* section service */
+
+
+
+
 
