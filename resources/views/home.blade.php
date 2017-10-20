@@ -1,4 +1,3 @@
-
 @extends('layouts.main')
 @section('title', '| Home')
 
@@ -11,16 +10,20 @@
           <div class="col-md-6 col-sm-6">
             <div class="showcase-left">
               <!-- <img src="img/image1.jpg"> -->
-              <img src="img/corsair.png">
+              <img src="img/corsair.png" class="img-responsive">
+               {{--  <img src="img/main-img.png" class="img-responsive" style="width: 100%;margin-top: 100px;margin-left: -100px;">  --}}
           
             </div>
           </div>
           <div class="col-md-6 col-sm-6">
             <div class="showcase-right">
-              <h1>Vous cherchez un développeur web ?</h1>
-              <h2>Ça tombe bien! Pour mieux vous comprendre et mieux vous servir...</h2>
-                <p>Ensemble, nous prendrons donc le temps nécessaire d'analyse de vos besoins. Parce que votre entreprise est unique, votre site internet doit l'être également.
-                  En me confiant la création de votre site internet, vous aurez donc l'assurance d'un véritable support de communication qui vous aidera à booster la réputation de votre entreprise..
+              <h1>Emet-Designs Vous Souhete la Bienvenue ! </h1>
+                <h2>Vous cherchez un développeur web ?</h2>
+                {{--<h2>Vous Voulez un site web ?</h2>--}}
+              {{--<h2>Ça tombe bien! Pour mieux vous comprendre et mieux vous servir...</h2>--}}
+                <p class="well">Ça tombe bien! Pour mieux vous comprendre et mieux vous servir... <br>
+                    Ensemble, nous prendrons donc le temps nécessaire d'analyse de vos besoins. Parce que votre entreprise est unique, votre site internet doit l'être également.
+                    En me confiant la création de votre site internet, vous aurez donc l'assurance d'un véritable support de communication qui vous aidera à booster la réputation de votre entreprise..
                 </p>
             </div>
             <br>
@@ -46,7 +49,7 @@
           <div class="col-md-6 col-sm-6">
             <div class="info-left" style="margin-left: -40px;;">
               <!-- <img src="img/msi.png"> -->
-              <img src="img/responsive.jpg" class="design">
+              <img src="img/responsive.jpg" class="design img-responsive">
             </div>
           </div>
           <div class="col-md-6 col-sm-6">
@@ -72,15 +75,11 @@
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div class="info-left">
-            <img src="img/dev.png" class="dev">
-              <h2>Bienvenu!</h2>
+            <img src="img/dev.png" class="dev img-responsive">
+              <h2> Besoin d'assistance ?</h2>
               <p>
-                  Je suis analyste-programmeur et diplômé d'une licence en programation Appliqué suivi d'une licence professionnelle informatique.
-                  Je travaille actuellement en tant que développeur freelance sous mon entreprise nomé (Emet-Designs), situé à Niarela.
-                  Je suis également le pilote du processus 'Systèmes informatiques'.
-                  Ce portfolio a pour but de présenter les différents projets sur lesquels j'ai eu travaillé ces dernières années.
-                  Vous pouvez également visualiser mon CV et le télécharger.
-                  Si vous avez une question, ou si vous avez simplement besoin d'un renseignement, vous pouvez me contacter en cliquant ici: Contact.
+                  N'hésitez pas a nous contacter! Nous sommes passionnés par le web. <br>
+                  Nous offrons une large gamme de produits et Solutions.
 
               </p>
             </div>
@@ -94,7 +93,7 @@
               Si mon profil vous intéresse n'hésitez pas à Nous contacter ou regardez mes réalisations →
               
               </p>
-              <img src="img/responsive2.png" class="design" style="margin-left: 30px;">
+              <img src="img/web-design2.png" class="design img-responsive" >
             </div>
           </div>
         </div>

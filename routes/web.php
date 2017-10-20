@@ -32,5 +32,9 @@ Route::get('/portfolio', function(){
 Route::get('/contact', function(){
     return view('pages.contact');
 });
+
+Route::get('/blog', function (){
+    return view('blog.index');
+});
 // Route::get('blog/{slug}', ['as'=> 'blog.single','uses' =>'BlogController@getSingle'])->where('slug', '[\w\d\-\_]+');
 

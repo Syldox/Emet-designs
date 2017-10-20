@@ -56,7 +56,7 @@
   <div class="row">
     <div class="col-md-6 col-sm-6">
       <div class="info-left">
-      <img src="img/isma.jpg" class="isma">
+      <img src="img/isma.jpg" class="isma img-responsive">
         <h2>A propo de Moi ?</h2>
         <p class="well text-muted">
             Je suis analyste-programmeur et diplômé d'une licence en programation Appliqué suivi d'une licence professionnelle informatique.
@@ -72,7 +72,8 @@
       <div class="info-right">
         <h2>Ce Quoi Emet?</h2>
         <p class="well text-muted">Emet-Designs Pvt. Ltd est une société de développement web et de développement de logiciels à service complet certifiée , basée à Bamako/Niaréla, au Mali.</p>
-        <img src="img/responsive2.png" class="design" style="margin-left: 30px;">
+        {{--  <img src="img/responsive2.png" class="design img-responsive" style="margin-left: 30px;">  --}}
+         <img src="img/main-img.png" class="img-responsive">
       </div>
     </div>
   </div>
@@ -140,7 +141,7 @@
         <div class="container">
 
         <!-- <h1 style="margin-bottom:100px;"><b>Votre Site Internet Sur-Mesure</b></h1> -->
-          <img src="img/stacks.jpg" alt="" style="width: 1380px; margin-left: -120px;margin-top: 45px;">
+          <img src="img/stacks.jpg" class="img-responsive" alt="" style="width: 1380px; margin-top: 45px;">
           <!-- <p class="customer" style="margin-top: 35px;">- Emet-Designs</p> -->
         </div>
       </section>
@@ -228,17 +229,15 @@
       </div>
 
 
-      <div class="col-lg-4  col-md-4 col-sm-4">
-          <div class="footer_dv info-right">
-              <h4 style="margin-left: 190px;">Contactez Nous</h4>
-              <a href="/contact"><img src="img/corp-help.png" alt="hotline" height="100px" style="margin-left: 235px;"></a>
-              <p class="footer_text">Aide Et Support Disponible  24/24 Hotline ........</p>
-              {{--<p>Orange Mali Aci 2000 ........</p>--}}
-              {{--<p>Bamako, Mali P: +223 44 99 99 03</p>--}}
-
-
-              </div>
-      </div>
+        <div class="col-lg-4  col-md-4 col-sm-4">
+            <div class="footer_dv info-right">
+                <h4 style="margin-left: 100px;">Contactez Nous</h4>
+                <a href="/contact"><img src="img/corp-help.png" alt="hotline" height="100px" style="margin-left: 140px;"></a>
+                <p class="footer_text">Aide Et Support Disponible  24/24 Hotline ........</p>
+                {{--<p>Orange Mali Aci 2000 ........</p>--}}
+                {{--<p>Bamako, Mali P: +223 44 99 99 03</p>--}}
+            </div>
+        </div>
 
   </div>
 </div>

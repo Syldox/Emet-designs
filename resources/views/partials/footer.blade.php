@@ -35,14 +35,12 @@
 
             <div class="col-lg-4  col-md-4 col-sm-4">
                 <div class="footer_dv info-right">
-                    <h4 style="margin-left: 190px;">Contactez Nous</h4>
-                    <a href="/contact"><img src="img/corp-help.png" alt="hotline" height="100px" style="margin-left: 235px;"></a>
+                    <h4 style="margin-left: 100px;">Contactez Nous</h4>
+                    <a href="/contact"><img src="img/corp-help.png" alt="hotline" height="100px" style="margin-left: 140px;"></a>
                     <p class="footer_text">Aide Et Support Disponible  24/24 Hotline ........</p>
                     {{--<p>Orange Mali Aci 2000 ........</p>--}}
                     {{--<p>Bamako, Mali P: +223 44 99 99 03</p>--}}
-
-
-                    </div>
+                </div>
             </div>
 
         </div>
